@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Bradley Dorn's 
+title: Bradley Dorn's Blog
 email: braddorn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I post stuff I make here. Just recently started. More to come soon.
