@@ -121,7 +121,7 @@ plt.show()
 
 
     
-![png](time_series_images/output_6_0.png)
+![png](output_6_0.png)
     
 
 
@@ -173,13 +173,13 @@ plt.savefig('plots/oil_prices_over_time_with_holidays.png'); plt.show()
 
 
     
-![png](time_series_images/output_11_0.png)
+![png](output_11_0.png)
     
 
 
 
     
-![png](time_series_images/output_11_1.png)
+![png](output_11_1.png)
     
 
 
@@ -239,7 +239,7 @@ fig.show()
 
 
     
-![png](time_series_images/output_12.png)
+![png](output_12.png)
 
 
 
@@ -262,7 +262,7 @@ fig.show()
 
 
     
-![png](time_series_images/output_13.png)
+![png](output_13.png)
 
 
 It seems that most stores have around 2 million transactions during a period with a few stores that have a much larger number of transactions.
