@@ -22,7 +22,7 @@ title: Bradley Dorn's Blog
 email: braddorn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I post stuff I make here. Just recently started. More to come soon.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/bradleydorn" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: braddorn
 github_username:  bradleydorn
