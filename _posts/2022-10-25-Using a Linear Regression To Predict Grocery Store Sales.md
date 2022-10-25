@@ -121,7 +121,7 @@ plt.show()
 
 
     
-![png]({{ site.baseurl }}/output_6_0.png)
+![png](![png]({{"images/time_series_images/output_6_0.png" | absolute_url}})
     
 
 
@@ -173,13 +173,13 @@ plt.savefig('plots/oil_prices_over_time_with_holidays.png'); plt.show()
 
 
     
-![png]({{ site.baseurl }}/output_11_0.png)
+![png](![png]({{"images/time_series_images/output_11_0.png" | absolute_url}})
     
 
 
 
     
-![png]({{ site.baseurl }}/output_11_1.png)
+![png](![png]({{"images/time_series_images/output_11_1.png" | absolute_url}})
     
 
 
@@ -239,7 +239,7 @@ fig.show()
 
 
     
-![png]({{ site.baseurl }}/output_12.png)
+![png](![png]({{"images/time_series_images/output_12.png" | absolute_url}})
 
 
 
@@ -262,7 +262,7 @@ fig.show()
 
 
     
-![png]({{ site.baseurl }}/output_13.png)
+![png](![png]({{"images/time_series_images/output_13.png" | absolute_url}})
 
 
 It seems that most stores have around 2 million transactions during a period with a few stores that have a much larger number of transactions.
@@ -316,7 +316,7 @@ fig.show()
 
 
     
-![png]({{ site.baseurl }}/output_14.png)
+![png](![png]({{"images/time_series_images/output_14.png" | absolute_url}})
 
 
 It looks like there is wide variation in sales by category type and that being on promotion seems to account for a substantial percentage of sales though not necessarily the majority across categories. 
